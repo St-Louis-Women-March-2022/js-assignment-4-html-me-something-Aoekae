@@ -1,1 +1,32 @@
 /* Write your CSS here! */
+
+body {
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    background-color: black;
+    display: block;
+    text-align: center;
+}
+
+p {
+    color: lightskyblue;
+    margin-left: 50px;
+    margin-right: 50px;    
+}
+
+#mainHeading {
+    color: red;
+}
+
+img {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.funParagraph {
+    color: green;
+}
