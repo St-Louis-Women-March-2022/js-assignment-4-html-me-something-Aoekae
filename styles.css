@@ -1,10 +1,7 @@
 /* Write your CSS here! */
 
 body {
-    margin-left: 8px;
-    margin-right: 8px;
-    margin-top: 8px;
-    margin-bottom: 8px;
+    margin: 8px;
     background-color: black;
     display: block;
     text-align: center;
