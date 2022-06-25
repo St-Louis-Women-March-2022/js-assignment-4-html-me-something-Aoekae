@@ -1,1 +1,46 @@
 /* Write your CSS here! */
+
+body {
+    margin: 8px;
+    background-color: black;
+    display: block;
+    text-align: center;
+}
+
+p {
+    color: lightskyblue;
+    margin-left: 50px;
+    margin-right: 50px;    
+    font-size: 16px;
+}
+
+#mainHeading {
+    color: red;
+    font-size: 26px;
+}
+
+img {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.funParagraph {
+    color: green;
+}
+
+h2 {
+    color: lightseagreen;
+    font-size: 24px;
+}
+
+h3 {
+    color: aquamarine;
+    font-size: 20px;
+}
+
+h4 {
+    color: lightslategray;
+    font-size: 18px;
+}
